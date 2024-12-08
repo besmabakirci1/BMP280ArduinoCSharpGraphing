@@ -1,4 +1,4 @@
-BMP280 Arduino C# Graphing
+Real-Time Data Visualization with BMP280 and C#
 ---
 🎯 Amaç 
 BMP280 sensöründen sıcaklık ve basınç verilerini okumak.
