@@ -2,10 +2,10 @@ Real-Time Data Visualization with BMP280 and C#
 ---
 🎯 Amaç 
 ---
-BMP280 sensöründen sıcaklık ve basınç verilerini okumak.
-Seri port üzerinden C# uygulaması ile Arduino arasında iletişim kurmak.
-Verileri grafik üzerinde gerçek zamanlı olarak görselleştirmek.
-Gelen verileri bir CSV dosyasına kaydederek daha sonra analiz edilebilir hale getirmek.
+#### BMP280 sensöründen sıcaklık ve basınç verilerini okumak.
+#### Seri port üzerinden C# uygulaması ile Arduino arasında iletişim kurmak.
+#### Verileri grafik üzerinde gerçek zamanlı olarak görselleştirmek.
+#### Gelen verileri bir CSV dosyasına kaydederek daha sonra analiz edilebilir hale getirmek.
 ---
 📁 Proje İçeriği
 ---
